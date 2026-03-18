@@ -1,0 +1,12 @@
+{
+  "feishu": {
+    "app_id": "cli_a9384d7ee5385bd2",
+    "app_secret": "kPl8kDnKSk9ssWYOi47cscRdnSi3Zo5y",
+    "approval_code": "FC55F262-A254-4C7B-B6A4-B7F909AD9549",
+    "user_id": "eg7be31f"
+  },
+  "ocr": {
+    "api_url": "https://11y6o7fcb2pdr0pd.aistudio-app.com/ocr",
+    "token": "973c05e966e7ad1355e1af7ae2173fc28068b363"
+  }
+}
